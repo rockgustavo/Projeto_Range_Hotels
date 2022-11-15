@@ -5,3 +5,7 @@ Projeto para apresentar HTML5 + CSS3 com responsividade
 ![Modelo](img/css3.png)
 
 Acesse: [https://rockgustavo.github.io/Projeto_Range_Hotels/](https://rockgustavo.github.io/Projeto_Range_Hotels/)
+
+### Conceitos utilizados:
+* Media Query
+* Mobile First

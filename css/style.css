@@ -69,6 +69,12 @@ body {
     text-decoration: none;
     color: white;
     padding: 0.5em 2em;
+    transition: 0.5s;
+}
+
+.btn:hover{
+    background-color: rgb(63, 151, 147);
+    border: 1px solid rgb(227, 240, 239);
 }
 
 .main-content{
